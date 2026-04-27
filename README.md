@@ -2,6 +2,7 @@
 
 This guide sets up git version control for FreeCAD `.FCStd` files using **zippey**, a tool that allows git to efficiently store and diff the ZIP-based FreeCAD format as readable text rather than binary blobs.
 
+>**None of this is my work!** The concept and scripts were created and documented by Dante Catalfamo: [blog.lambda.cx](https://blog.lambda.cx)
 ---
 
 ## Prerequisites
